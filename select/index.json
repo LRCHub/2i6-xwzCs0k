@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dirty Rotten Bizkit",
+  "base_artist": "Limp Bizkit",
+  "createdAt": "2026-02-17T14:08:06.595267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/01_Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/02_Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02. Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/03_02._Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit [Explicit]",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/04_Dirty_Rotten_Bizkit_[Explicit]_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/05_Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/06_Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": true,
+      "path": "select/07_Dirty_Rotten_Bizkit_Limp_Bizkit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Rotten Bizkit",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Rotten_Bizkit_Limp_Bizkit.txt"
+    }
+  ]
+}
